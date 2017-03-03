@@ -84,6 +84,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="bottomConstraintOfScrollView" destination="qlX-5F-TCn" id="GJC-yZ-E4l"/>
                         <outlet property="image" destination="L7g-nF-wBk" id="Ofc-7K-K8m"/>
                         <outlet property="scrollView" destination="Cp3-Lb-jcy" id="CLv-3I-D9Z"/>
                         <outlet property="signInButton" destination="4dh-5K-6Ng" id="lA7-0r-EfV"/>

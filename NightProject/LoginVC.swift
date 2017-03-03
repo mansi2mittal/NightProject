@@ -18,8 +18,6 @@ class LoginVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        googleButton.layer.cornerRadius = googleButton.layer.bounds.width/2
 
            }
 
